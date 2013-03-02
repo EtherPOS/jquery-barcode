@@ -3,6 +3,8 @@ meteor-jquery-barcode
 
 Meteor.js meteorite/atmosphere jquery smart package for creating barcodes.
 
+By @ [EtherPOS](http://www.etherpos.com/ "EtherPOS")
+
 @ atmosphere.meteor.com
 
 
