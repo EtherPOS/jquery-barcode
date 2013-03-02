@@ -1,11 +1,13 @@
 meteor-jquery-barcode
-=====================
+======================
 
 Meteor.js meteorite/atmosphere jquery smart package for creating barcodes.
 
-
 @ atmosphere.meteor.com
 
+
+original jquery plug-in information & authorship
+=================================================
 BarCode Coder Library (BCC Library)
 BCCL Version 2.0
 
