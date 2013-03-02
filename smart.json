@@ -2,7 +2,7 @@
   "name": "jquery-barcode",
   "description": "Jquery smart package of jQuery barcode plugin 2.0.2.",
   "homepage": "https://github.com/EtherPOS/meteor-jquery-barcode",
-  "author": "EtherPOS  (http://www.etherpos.com) Stephen T. Cannon (http://www.stephentcannon.com)",
+  "author": "EtherPOS  (http://www.etherpos.com)",
   "version": "2.0.2",
   "git": "https://github.com/EtherPOS/meteor-jquery-barcode",
   "packages": {}
