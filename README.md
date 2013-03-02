@@ -1,0 +1,2 @@
+meteor-jquery-barcode
+======================
