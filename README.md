@@ -7,7 +7,7 @@ By @ [EtherPOS](http://www.etherpos.com/ "EtherPOS")
 
 Get it @ [Meteor JQuery BarCode on Atmosphere](http://atmosphere.meteor.com)
 
-Test it @ [Meteor JQuery BarCode Test on Meteor](https://jquery-barcode-test.meteor.com)
+Test it @ [Meteor JQuery BarCode Test on Meteor](http://jquery-barcode-test.meteor.com)
 
 Git test @ [Meteor JQuery BarCode Test on GitHub](https://github.com/EtherPOS/meteor-jquery-barcode-test)
 
