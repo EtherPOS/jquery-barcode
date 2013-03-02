@@ -17,8 +17,8 @@ Version : 2.0.2
 Original Plug In Date: March 01, 2011
 
 Original Plug In Authors : 
-  DEMONTE Jean-Baptiste <jbdemonte@gmail.com>
-  HOUREZ Jonathan
+  * DEMONTE Jean-Baptiste <jbdemonte@gmail.com>
+  * HOUREZ Jonathan
        
 Original Plug In Web sites: 
   * http://barcode-coder.com/
