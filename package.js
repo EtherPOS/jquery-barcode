@@ -1,7 +1,7 @@
 Package.describe({
   summary: "jQuery barcode plugin - a jQuery plugin for generating barcodes",
   // Version number.
-  version: "2.0.3",
+  version: "2.0.4",
   // Optional.  Default is package directory name.
   name: "steeve:jquery-barcode",
   // Optional github URL to your source repository.
